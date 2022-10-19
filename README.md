@@ -17,3 +17,12 @@ A „Játék indítása” gombra kattintás után elindul a játék, ahol az it
 
 ![image](https://user-images.githubusercontent.com/100286042/196639452-0f2a3975-7a85-4b2a-aecc-8f0a42e2c798.png)
 
+A játék felülete a következő képen látható:
+![image](https://user-images.githubusercontent.com/100286042/196639669-615749cd-08c9-4412-9309-da87d64837ad.png)
+
+A sötétszürke felületen látható a pálya és a korongok, ennek a jobb oldalán, a világos szürke felületen pedig a játék menetéhez szükséges feliratok, amelyek a játékosoknak nyújtanak segítséget. A szürke színű sávban megjelenő „FEHÉR” és „FEKETE” feliratok alatt szerepelnek a játék indításánál megadott játékos nevek (a megfelelő oszlopban). Ez alatt található egy szöveges mező, amelyet nem lehet szerkeszteni, de ez jeleníti meg az utasításokat, amelyek az adott játéksora vonatkoznak. Ez alatt található az időmérő felirat, amely mutatja mennyi idő telt el a játék indítása óta.
+
+Az ablak felső sávjában található két menüpont. Az első menüpontban (’Menu’) két lehetőségünk van:
+- Új játék: ezzel az aktuális játékot megszakítjuk, és visszatérünk ahhoz az ablakhoz, amelyet a program indításánál láttunk. Itt pedig egy teljesen új kört tudunk elkezdeni.
+- Kilépés: ezzel a játék megszakításával kilépünk a programból (ugyanez elvégezhető a jobbfelső sarokban lévő ’X’-re kattintással).
+
