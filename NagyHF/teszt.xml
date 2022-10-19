@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<malom_eredmenyek>
+  <kor id="0">
+    <tag k="feher_j" v="Test Játékos_Fehér" />
+    <tag k="fekete_j" v="Test Játékos_Fekete" />
+    <tag k="ido" v="00:00" />
+    <tag k="nyertes" v="FEKETE" />
+  </kor>
+  <kor id="1">
+    <tag k="feher_j" v="Test Játékos_Fehér" />
+    <tag k="fekete_j" v="Test Játékos_Fekete" />
+    <tag k="ido" v="00:00" />
+    <tag k="nyertes" v="FEKETE" />
+  </kor>
+  <kor id="2">
+    <tag k="feher_j" v="Test Játékos_Fehér" />
+    <tag k="fekete_j" v="Test Játékos_Fekete" />
+    <tag k="ido" v="00:00" />
+    <tag k="nyertes" v="FEKETE" />
+  </kor>
+  <kor id="3">
+    <tag k="feher_j" v="Test Játékos_Fehér" />
+    <tag k="fekete_j" v="Test Játékos_Fekete" />
+    <tag k="ido" v="00:00" />
+    <tag k="nyertes" v="FEKETE" />
+  </kor>
+  <kor id="4">
+    <tag k="feher_j" v="Test Játékos_Fehér" />
+    <tag k="fekete_j" v="Test Játékos_Fekete" />
+    <tag k="ido" v="00:00" />
+    <tag k="nyertes" v="FEKETE" />
+  </kor>
+  <kor id="5">
+    <tag k="feher_j" v="Test Játékos_Fehér" />
+    <tag k="fekete_j" v="Test Játékos_Fekete" />
+    <tag k="ido" v="00:00" />
+    <tag k="nyertes" v="FEKETE" />
+  </kor>
+  <kor id="6">
+    <tag k="feher_j" v="Test Játékos_Fehér" />
+    <tag k="fekete_j" v="Test Játékos_Fekete" />
+    <tag k="ido" v="00:00" />
+    <tag k="nyertes" v="FEKETE" />
+  </kor>
+</malom_eredmenyek>
