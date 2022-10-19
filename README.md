@@ -61,8 +61,10 @@ A játék kétféle módon érhet véget:
 - Az egyik játékosnak elfogynak a korongjai, azaz 2 darab marad
 - Úgy sikerül elhelyezni a korongokat, hogy az egyik játékos minden korongja „beszorul”, azaz nem tud szabályosan lépni egy koronggal sem, mert nincs szabad szomszédos mezője egyiknek sem.
 
-![image](https://user-images.githubusercontent.com/100286042/196641362-744c7052-0f80-43f5-8b16-4c99cebf6c0f.png) A játék vége, ha elfogytak a korongok
+A játék vége, ha elfogytak a korongok:
+![image](https://user-images.githubusercontent.com/100286042/196641362-744c7052-0f80-43f5-8b16-4c99cebf6c0f.png) 
 
-![image](https://user-images.githubusercontent.com/100286042/196641465-51b9213c-2786-4087-8b8e-5e0d479ef0bb.png) A játék vége, amikor nincs több lépés.
+A játék vége, amikor nincs több lépés:
+![image](https://user-images.githubusercontent.com/100286042/196641465-51b9213c-2786-4087-8b8e-5e0d479ef0bb.png) 
 
 A játék vége az utasításokat jelző szövegdobozban megjelenik, és kiírja az aktuális körnek a nyertesét. Ekkor már egyik koronggal sem lehet lépni sehova, és az időmérő is leáll. Az eredmények elmentődnek egy külső XML fájlba, amelyeket meg lehet tekinteni a ’Stat’ fül alatt lévő ’Eredmények’ menüpont indításával. A külső fájl lényege, hogy az eredmények később is elérhetőek legyenek, a program többszöri futtatása során is. A játék végeztével új játék indítható, a ’Menu’ menüpont alatt.
